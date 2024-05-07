@@ -1,2 +1,0 @@
-document.getElementById('card-pic').setAttribute('src', chrome.runtime.getURL("card-pic.png"))
-document.getElementById('steam-link').setAttribute('href', "https://steamcommunity.com/id/ByadminPresents/")
