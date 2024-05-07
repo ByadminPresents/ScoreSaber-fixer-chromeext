@@ -20,7 +20,7 @@
   "action": {
     "default_popup": "creator_card.html"
   },
-  "description": "Adds BeatSaver link button on ScoreSaber map leaderbords page",
+  "description": "Adds BeatSaver link button on ScoreSaber map leaderboards page",
   "version": "1.0",
   "manifest_version": 3
 }
